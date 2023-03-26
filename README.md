@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ali7112001@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/theali711/details/featured/1635521304923/single-media-viewer/?profileId=ACoAADMX0BABxYI6XjUhmlATT6SC7XX9bn6dJ6k)
+- 📄 Know about my experiences [here in featured section](https://www.linkedin.com/in/theali711/)
 
 - Love to **play Chess, Table Tennis, DotA, eat food and travel**
 

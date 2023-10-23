@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mansoor</h1>
 <h3 align="center">A Computer Scientist from Pakistan</h3>
 
-- 🌱 I’m currently learning **Cyber Security & Networking**
+- 🌱 I’m currently learning **Software Architecture & DevOps**
 
 - 💬 Ask me about **Javascript & Web Development**
 
